@@ -1,4 +1,4 @@
-date : 31/07/24
+date : 31/07/67
 time : 11:33
 price : 50
 location : Sangthong school, Hatyai

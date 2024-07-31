@@ -1,4 +1,4 @@
-date : 12/7/67
-time : 21.47
-price : 200
-location : ร้านเจ๊โอว
+date : 22/7/67
+time : 13:09
+price : 80
+location : เจ๊เช็ง ตือฮวนเกี้ยมฉ่าย

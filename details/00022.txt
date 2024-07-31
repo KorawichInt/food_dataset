@@ -1,4 +1,4 @@
-date : 27/07/24
+date : 27/07/67
 time : 19:21
 price : 400
 location : Central Hatyai

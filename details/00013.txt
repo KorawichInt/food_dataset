@@ -1,4 +1,4 @@
 date : 21/7/67
-time : 12.11
-price : 100
-location : โกตี๋โอชา
+time : 19:52
+price : 120
+location : Tai Si Hee Chicken Rice (Betong), Hatyai
