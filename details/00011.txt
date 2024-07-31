@@ -1,4 +1,4 @@
 date : 17/7/67
-time :
-price :
-location :
+time : 18:27
+price : 50
+location : Sri Trang Market

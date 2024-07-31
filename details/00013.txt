@@ -1,4 +1,4 @@
 date : 21/7/67
-time :
-price :
-location :
+time : 19:52
+price : 120
+location : Tai Si Hee Chicken Rice (Betong), Hatyai
