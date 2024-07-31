@@ -1,4 +1,4 @@
-date : 
-time :
-price :
-location : 
+date : 17/07/24
+time : 12:53
+price : 60
+location : Hatyai Municipality Park

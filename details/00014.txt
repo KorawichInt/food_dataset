@@ -1,4 +1,4 @@
-date :
-time :
-price :
-location :
+date : 31/07/24
+time : 11:33
+price : 50
+location : Sangthong school, Hatyai

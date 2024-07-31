@@ -1,4 +1,4 @@
-date : 
-time : 
-price : 
-location : 
+date : 29/07/24
+time : 12:54
+price : 70
+location : Montree Mheeped Hatyai
