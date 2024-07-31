@@ -1,4 +1,4 @@
-date : 22/7/67
-time :
-price :
-location :
+date : 12/7/67
+time : 21.47
+price : 200
+location : ร้านเจ๊โอว

@@ -1,4 +1,4 @@
-date : 16/7/67
-time :
-price :
-location : 
+date : 14/7/67
+time : 13.24
+price : 130
+location : อ็อคเคอ คอฟ'ฟี่

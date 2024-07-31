@@ -1,4 +1,4 @@
-date : 26/7/67
-time : 
-price : 
-location : 
+date : 21/7/67
+time : 07.10
+price : 60
+location : ร้านก้าวทอง

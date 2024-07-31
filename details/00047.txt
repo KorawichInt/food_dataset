@@ -1,4 +1,4 @@
-date : 19/04/24
+date : 20/7/24
 time : 18:11
-price : 80
-location : keep 
+price : 250
+location : โอ้กะจู๋ สาขาสยามสแควร์วัน

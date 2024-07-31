@@ -1,4 +1,4 @@
-date : 24/7/67
-time :
-price :
-location : 
+date : 22/7/67
+time : 16.45
+price : 150
+location : ร้านอาหารล่อคุ้ง

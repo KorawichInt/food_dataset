@@ -1,4 +1,4 @@
-date : 21/7/67
-time : 
-price : 
-location : 
+date : 12/7/67
+time : 19.32
+price : 200
+location : หมูกรอบจอมพลัง

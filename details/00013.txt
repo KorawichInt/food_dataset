@@ -1,4 +1,4 @@
 date : 21/7/67
-time :
-price :
-location :
+time : 12.11
+price : 100
+location : โกตี๋โอชา
