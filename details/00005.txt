@@ -1,4 +1,4 @@
-date : 12/7/67
-time :
-price :
-location :
+date : 20/07/67
+time : 15.48
+price : 209
+location : Choongman Chicken Future Park Rangsit
