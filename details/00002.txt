@@ -1,4 +1,4 @@
-date :
-time :
-price :
-location :
+date : 28/07/24
+time : 18:56
+price : 300
+location : KFC Lotus Hatyai
