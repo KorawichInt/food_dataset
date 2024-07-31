@@ -1,4 +1,4 @@
 date : 26/7/67
-time :
-price :
-location :
+time : 19.38
+price : 189
+location : The Supper Steak

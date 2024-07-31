@@ -1,4 +1,4 @@
 date : 24/7/67
-time :
-price :
-location : 
+time : 19:31
+price : 189
+location : The Supper Steak

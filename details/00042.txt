@@ -1,4 +1,4 @@
 date : 13/7/67
-time :
-price :
-location : 
+time : 17:51
+price : 40
+location : RongChang Cafeteria

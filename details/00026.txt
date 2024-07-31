@@ -1,4 +1,4 @@
 date : 17/7/67
-time :
-price :
-location :
+time : 15:12
+price : 199
+location : The Pizza Company Lotus's PSU

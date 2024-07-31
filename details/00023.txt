@@ -1,4 +1,4 @@
 date : 22/7/67
-time :
-price :
-location :
+time : 20.22
+price : 199
+location : เรือนศรีทรัพย์แมนชั่น
