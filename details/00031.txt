@@ -1,4 +1,4 @@
-date : 
+date : 20/7/67
 time :
 price :
 location : 
