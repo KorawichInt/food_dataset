@@ -1,4 +1,4 @@
-date : 25/07/67
+date : 25/7/67
 time : 16:44
 price : 50
 location : RongChang Cafeteria

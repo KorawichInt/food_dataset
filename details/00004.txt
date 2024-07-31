@@ -1,4 +1,4 @@
 date : 27/7/67
-time :
-price :
-location :
+time : 12.23
+price : 199
+location : Bonchon Chinken Central Hatyai

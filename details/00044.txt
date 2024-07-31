@@ -1,4 +1,4 @@
-date : 
-time :
-price :
-location : 
+date : 22/7/67
+time : 17:41
+price : 20
+location : PSU Biz Mall

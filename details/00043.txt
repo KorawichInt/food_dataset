@@ -1,4 +1,4 @@
-date : 
-time :
-price :
-location : 
+date : 21/7/67
+time : 19:45
+price : 89
+location : BarCode
