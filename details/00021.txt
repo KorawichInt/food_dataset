@@ -1,4 +1,4 @@
-date :16/7/67
-time :
-price :
-location :
+date : 16/7/67
+time : 20.31
+price : 299
+location : ริมรั้วกระทะร้อน&สุกี้
