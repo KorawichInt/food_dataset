@@ -1,4 +1,4 @@
 date : 21/7/67
-time :
-price :
-location : 
+time : 13.18
+price : 600
+location : What the Fish (Izakaya & Bar)

@@ -1,4 +1,4 @@
 date : 22/7/67
-time :
-price :
-location :
+time : 13:09
+price : 80
+location : เจ๊เช็ง ตือฮวนเกี้ยมฉ่าย
