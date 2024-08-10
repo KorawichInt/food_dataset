@@ -1,0 +1,13 @@
+0 : meat 
+1 : carb 
+2 : vegetable 
+3 : fried_chicken 
+4 : kao_kaijeao 
+5 : kao_moogrob 
+6 : mama_fried 
+7 : mama_soup 
+8 : moogata 
+9 : pizza 
+10 : salmon 
+11 : kao_mankai 
+12 : steak
